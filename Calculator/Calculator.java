@@ -26,22 +26,22 @@ public class Calculator {
 
     }
 
-    public double add(double a, double b) {
+    public double add(double a, double b) { // a method to add two numbers
         double c = a + b;
         return c;
     }
 
-    public double subs(double a, double b) {
+    public double subs(double a, double b) { // a method to substract two numbers 
         double c = a - b;
         return c;
     }
 
-    public double mult(double a, double b) {
+    public double mult(double a, double b) { // a method to multiply two numbers 
         double c = a * b;
         return c;
     }
 
-    public double div(double a, double b) {
+    public double div(double a, double b) { // a method to divide two numbers
         double c = a / b;
         return c;
     }
